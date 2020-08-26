@@ -1,0 +1,12 @@
+.icon-navbar  { border-radius: 50%;}
+.navbar-nav {   margin-left: 250px; }
+.navbar { background-color: coral; border-radius: 10px;}
+header { margin-top: 30px; }
+.texto-principal { margin-top: 50px;}
+#Rank { margin-top: 250px;background-color: coral;padding-top: 20px; padding-bottom: 20px; border-radius: 20px;}
+#Dados { margin-top: 50px;background-color: coral;padding-top: 20px; padding-bottom: 20px; border-radius: 20px;}
+#Recompensas { margin-top: 50px;background-color: coral;padding-top: 20px; padding-bottom: 20px; border-radius: 20px;}
+#Contatos { margin-top: 300px;}
+body { font-size: larger ; color: firebrick;background-color: bisque; font-family: Arial, sans-serif; }
+img { border-radius: 50%;}
+footer { background-color : chocolate;padding-top: 20px; padding-bottom: 20px; border-radius: 20px; }
